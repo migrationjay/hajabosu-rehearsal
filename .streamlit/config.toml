@@ -1,0 +1,16 @@
+[theme]
+base = "light"
+primaryColor = "#7B4FDF"
+backgroundColor = "#F5F1FF"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#1E1B2E"
+linkColor = "#7B4FDF"
+borderColor = "#DDD3F6"
+baseRadius = "1rem"
+headingFontSizes = ["2.25rem", "1.75rem", "1.25rem", "1.1rem", "1rem", "0.9rem"]
+showWidgetBorder = true
+
+[theme.sidebar]
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#EFE8FD"
+borderColor = "#E7E0F8"

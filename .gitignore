@@ -1,0 +1,6 @@
+.env
+__pycache__/
+output/
+data/*.db
+data/사진/
+.venv/
